@@ -45,9 +45,12 @@ void setup(){
 ```
 # OUTPUT:
 
-LED ON:
+LED OFF:
 
 <img width="1118" height="742" alt="Screenshot 2026-11-19 103743" src="https://github.com/user-attachments/assets/b9df5d70-4cd0-4988-a2ca-4003bdfb4557" />
+LED ON:
+
+<img width="1186" height="696" alt="image" src="https://github.com/user-attachments/assets/ae44fd22-0283-4ebf-aec1-5022921b6f45" />
 
 # RESULT:
 Thus a Analog input (angular displacement sensor POT) and scale the values up on change in the input has been executed successfully.
